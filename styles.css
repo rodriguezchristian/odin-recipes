@@ -1,0 +1,15 @@
+.recipes-page {
+    background-color: aqua;
+}
+
+.paragraph {
+    background-color: black;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#paragraph {
+    background-color: white;
+    color: magenta;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
